@@ -3,31 +3,31 @@ body {
 }
 .wrapper {
   margin: auto;
-  width: 45%;
+  width: 27%;
   background-color: rgba(4, 190, 4, 0.719);
   padding: 1em;
 }
 .container {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    padding: 2em;
-    background-color: white;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  padding: 2em;
+  background-color: white;
   border-radius: 4%;
 }
-.banner p{
-    color: rgba(2, 2, 2, 0.479);
-    
-
+.banner p {
+  color: rgba(2, 2, 2, 0.479);
 }
 .btn {
   background-color: rgba(27, 107, 228, 0.849);
+  border-color: rgba(27, 107, 228, 0.849);
   color: white;
+  padding: 5px 10px;
   border-radius: 25%;
 }
 .btn:active {
-    background-color: rgba(27, 107, 228, 0.849);
-    box-shadow: 0 5px #666;
-    transform: translateY(4px);
+  background-color: rgba(27, 107, 228, 0.849);
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
 }
 .second-answer {
   text-decoration: line-through;
@@ -41,17 +41,20 @@ body {
   border-radius: 15%;
   background-color: rgba(27, 107, 228, 0.849);
   color: white;
-
+  border-color: rgba(27, 107, 228, 0.849);
+  padding: 5px 10px;
 }
 .btn2 {
   border-radius: 15%;
   background-color: rgb(226, 12, 12);
   color: white;
-
+  border-color: rgb(226, 12, 12);
+  padding: 5px 10px;
 }
 .btn3 {
   border-radius: 15%;
   background-color: rgb(12, 226, 23);
   color: white;
-
+  border-color: rgb(12, 226, 23);
+  padding: 5px 10px;
 }
