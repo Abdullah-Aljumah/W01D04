@@ -1,0 +1,55 @@
+body {
+    width: 100%;
+}
+.wrapper {
+    justify-content: center;
+    padding:3px 30px;
+    text-align: center;
+    width:100%
+    
+}
+.van {
+height: 200px;
+}
+
+.container {
+    margin: 2%;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.Vlunteer {
+    border: 3px solid;
+    padding: 15px;
+    box-shadow: 10px 10px 10px #888888;
+border-top-color: rgba(221, 157, 19, 0.349);  
+  width: 20%;
+    margin: 2%;
+
+}
+.Donations {
+    border: 3px solid;
+    padding: 15px;
+    box-shadow: 10px 10px 10px #888888;
+border-top-color: rgba(221, 157, 19, 0.349);  
+  width: 20%;
+    margin: 2%;
+
+}
+.Advertisement {
+    border: 3px solid;
+    padding: 15px;
+    box-shadow: 10px 10px 10px #888888;
+border-top-color: rgba(221, 157, 19, 0.349);  
+  width: 20%;
+    margin: 2%;
+
+}
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1, p {
+    margin: 5%;
+    
+}
