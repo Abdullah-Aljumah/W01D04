@@ -1,0 +1,65 @@
+body {
+    width: 100%;
+    padding-top: 10px;
+}
+.wrapper {
+display: flex;  
+ padding:3px 30px;
+ font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif ;
+}
+.container1 {
+    width: auto;
+
+}
+.container2 {
+        width: 50%;
+}
+.inputs li {
+    padding: 10px;
+}
+.input4 {
+    width: 300px;
+    height: 80px;
+    text-align: start;
+}
+button {
+    padding: 5px;
+}
+.contactUs {
+    width: 28%;
+    box-shadow: 0 3px rgb(209, 147, 32);
+
+}
+.p1 {
+    width: 32%;
+}
+.sendMessage {
+    width: 42%;
+    box-shadow: 0 3px rgb(209, 147, 32);
+}
+.info li {
+    padding: 8px;
+ 
+}
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
+span {
+    color: rgb(189, 171, 7);
+}
+button {
+    
+    background-color: grey;
+    color: rgb(189, 171, 7);;
+}
+button:active {
+    background-color: rgba(0, 0, 0, 0.849);
+  box-shadow: 0 5px grey;
+  transform: translateY(4px);
+}
